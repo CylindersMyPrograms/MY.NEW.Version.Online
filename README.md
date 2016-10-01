@@ -2,7 +2,7 @@
 MY New
 #MY NEW V3
 
-<p><strong><a href="https://github.com/CylindersMyPrograms/MY-NEW/releases/download/v3/MY.New.V3.iso"> Download MY NEW V3 .iso</a></strong></p>
+<p><strong><a href="https://github.com/CylindersMyPrograms/MY-NEW/releases/download/v3/MY.New.v3.iso"> Download MY NEW V3 .iso</a></strong></p>
 
 <p><strong><img src="https://cylindersmyprograms.files.wordpress.com/2016/09/1.png?w=300&h=211"alt=""></strong></p>	 
 
